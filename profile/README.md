@@ -22,6 +22,6 @@ Besides the hand-raise counter, Meldo has a timetable (with optional WebUntis im
 
 The iOS app is coming to the App Store soon. For Android, download the APK from the [meldo-android releases](https://github.com/Meldo-dev/meldo-android/releases).
 
-[meldo.dev](https://meldo.dev) · [Datenschutz / privacy policy](https://meldo.dev/datenschutz.html) · contact@meldo.dev
+[meldo.dev](https://meldo.dev) · [Datenschutz / privacy policy](https://meldo.dev/de/privacy) · contact@meldo.dev
 
 MIT licensed, © 2026 Yavuz Selim Kolbasar. Meldo is not affiliated with Untis GmbH, Microsoft or Google.
