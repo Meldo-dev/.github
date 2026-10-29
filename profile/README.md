@@ -12,7 +12,7 @@
   <em>Für Schülerinnen und Schüler: Meldungen zählen, Stundenplan, Noten, Hausaufgaben und Klausuren. Ohne Konto, ohne Werbung, ohne Tracking.</em>
 </p>
 
-Besides the hand-raise counter, Meldo has a timetable, grades on the 1–6 and 0–15 scales, homework and exams. There is no account, no ads and no tracking. Your data stays on your device, and the optional Google Drive backup is encrypted on the device before it is uploaded. The WebUntis import is switched off for now, until Untis approves it.
+Besides the hand-raise counter, Meldo has a timetable, grades on the 1–6 and 0–15 scales, homework and exams. There is no account, no ads and no tracking. Your data stays on your device, and the optional Google Drive backup is encrypted on the device before it is uploaded. WebUntis import: waiting for approval from Untis.
 
 | Repository | |
 |---|---|
